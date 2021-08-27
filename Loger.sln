@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loger-app", "Loger-app\Loger-app.csproj", "{928974C4-0E0A-40C8-B949-692DB0EFA1D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document", "Document\Document.csproj", "{09167D61-E91E-40B2-8735-8846F96FBD2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loger", "Loger\Loger.csproj", "{9EE94794-738B-41DC-AD66-77687F98FD6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928974C4-0E0A-40C8-B949-692DB0EFA1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928974C4-0E0A-40C8-B949-692DB0EFA1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928974C4-0E0A-40C8-B949-692DB0EFA1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928974C4-0E0A-40C8-B949-692DB0EFA1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09167D61-E91E-40B2-8735-8846F96FBD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09167D61-E91E-40B2-8735-8846F96FBD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09167D61-E91E-40B2-8735-8846F96FBD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09167D61-E91E-40B2-8735-8846F96FBD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE94794-738B-41DC-AD66-77687F98FD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE94794-738B-41DC-AD66-77687F98FD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE94794-738B-41DC-AD66-77687F98FD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE94794-738B-41DC-AD66-77687F98FD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
