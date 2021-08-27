@@ -2,9 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loger-app", "Loger-app\Loger-app.csproj", "{928974C4-0E0A-40C8-B949-692DB0EFA1D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document", "Document\Document.csproj", "{09167D61-E91E-40B2-8735-8846F96FBD2E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document_LIB", "Document_LIB\Document_LIB.csproj", "{09167D61-E91E-40B2-8735-8846F96FBD2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loger", "Loger\Loger.csproj", "{9EE94794-738B-41DC-AD66-77687F98FD6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loger-LIB", "Loger-LIB\Loger-LIB.csproj", "{9EE94794-738B-41DC-AD66-77687F98FD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INI_LIB", "INI_LIB\INI_LIB.csproj", "{10667C2A-08CD-40A4-91E4-94A41630D621}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +26,9 @@ Global
 		{9EE94794-738B-41DC-AD66-77687F98FD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EE94794-738B-41DC-AD66-77687F98FD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EE94794-738B-41DC-AD66-77687F98FD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10667C2A-08CD-40A4-91E4-94A41630D621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10667C2A-08CD-40A4-91E4-94A41630D621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10667C2A-08CD-40A4-91E4-94A41630D621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10667C2A-08CD-40A4-91E4-94A41630D621}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

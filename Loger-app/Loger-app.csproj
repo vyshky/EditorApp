@@ -8,7 +8,16 @@
 
     <ItemGroup>
       <Reference Include="Document, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-        <HintPath>..\Document\bin\Debug\net5.0\Document.dll</HintPath>
+        <HintPath>..\Document_LIB\bin\Debug\net5.0\Document_LIB.dll</HintPath>
+      </Reference>
+      <Reference Include="Document_LIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\Document_LIB\bin\Debug\net5.0\Document_LIB.dll</HintPath>
+      </Reference>
+      <Reference Include="INI_LIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\INI_LIB\bin\Debug\net5.0\INI_LIB.dll</HintPath>
+      </Reference>
+      <Reference Include="Loger-LIB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\Loger-LIB\bin\Debug\net5.0\Loger-LIB.dll</HintPath>
       </Reference>
     </ItemGroup>
 
